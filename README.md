@@ -13,9 +13,6 @@
     <a href="https://github.com/usamajanjua9">
       <img src="https://img.shields.io/badge/GitHub-black?style=flat&logo=github&logoColor=white" alt="GitHub Badge"/>
     </a>
-    <a href="https://ieeexplore.ieee.org/author/37414599200">
-      <img src="https://img.shields.io/badge/IEEE-Technical-blue?style=flat&logo=ieee&logoColor=white" alt="IEEE Badge"/>
-    </a>
   </div>
   <h1>
     <p> Hi, I’m Dr. Usama Arshad
@@ -28,29 +25,48 @@
 ---
 ### :man_technologist: About Me :
 - 👋 Hi, I’m Dr. Usama Arshad
-- 👀 Passionate about **Artificial Intelligence, Machine Learning, Blockchain, and Cybersecurity**.
-- 🌱 Assistant Professor at **FAST National University**, conducting research in AI and secure blockchain integration.
+- 🎓 Assistant Professor (Business Analytics) at **FAST National University**
+- 👨‍🏫 Former Graduate Teaching Assistant at **Ghulam Ishaq Khan Institute of Engineering Sciences and Technology (GIKI)**
 - 🏆 **President of the Graduate Students Society (GSS) at GIKI**, organizing technical workshops, research forums, and student activities.
-- 🎓 Founder and Lead Instructor at **DNN BootCamp at GIKI**, training students in ML, Deep Learning, and AI-powered applications.
-- 🔍 **IEEE Member & Conference Organizer**, chairing multiple research symposiums and mentoring scholars.
-- 📚 **Peer reviewer for IEEE, Elsevier, and Springer Nature journals**.
-- 🔬 **Published researcher** in top-tier AI and cybersecurity journals. [Check my research](https://scholar.google.com/citations?user=sFcSCYMAAAAJ&hl=en).
+- 🎓 Lead Instructor at **DNN BootCamp at GIKI**, conducting labs on ML, Deep Learning, and AI applications.
+- 🔍 Research interests: **Blockchain, Machine Learning, Cybersecurity, Quantum Machine Learning**
+- 📚 **Peer reviewer** for top journals like IEEE, Elsevier, and Springer Nature.
+- 🔬 Published multiple **high-impact research papers** on AI and blockchain ([Check my research](https://scholar.google.com/citations?user=sFcSCYMAAAAJ&hl=en)).
 - 🎤 **Speaker at AI, Blockchain, and FinTech conferences worldwide**.
-- 🚀 Passionate about **open-source AI contributions** and mentoring aspiring researchers.
+- 🚀 Freelancer on **Fiverr & Upwork**, specializing in **SEO, Web Development, Graphic Design, and AI Solutions**.
+---
+
+### :trophy: Achievements & Awards :
+- 🏅 **Best Instructor Award** at **DNN BootCamp, GIKI**
+- 🏆 **Fully Funded PhD Scholarship**, GIKI
+- 🎖 **Dean’s Roll of Honour Award**, GIKI
+- 🏅 **Recognized Track Chair at ICET 2024**, leading publication and review processes
+- 📜 **Published in top-tier journals like IEEE Transactions, Elsevier, Springer, and Vehicular Communications**
+---
+
+### :books: Research & Publications :
+- 📖 **Q-Ensemble Learning for Customer Churn Prediction with Blockchain** - Annals of Operations Research ([Read More](https://scholar.google.com/citations?user=sFcSCYMAAAAJ&hl=en))
+- 📘 **Secure AI Models with Blockchain for FinTech** - IEEE Transactions on Blockchain
+- 📰 **Adversarial Attacks and Defenses in AI Models** - Elsevier Journal on Cybersecurity
+- 🔍 **Futuristic Blockchain-Based Vehicular Network Architecture** - Vehicular Communications
+- 🎓 **Blockchain-enabled Trust Management for Vehicular Networks** - IEEE AECT Conference
 ---
 
 ### :desktop_computer: Languages and Tools :
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="TensorFlow" alt="TensorFlow" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="PyTorch" alt="PyTorch" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="TensorFlow" alt="TensorFlow" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="PyTorch" alt="PyTorch" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" title="LaTeX" alt="LaTeX" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" title="Markdown" alt="Markdown" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" title="Jupyter Notebook" alt="Jupyter" width="50" height="50"/>&nbsp;
 </div>
 
 ---
