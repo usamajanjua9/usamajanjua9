@@ -13,6 +13,9 @@
     <a href="https://github.com/usamajanjua9">
       <img src="https://img.shields.io/badge/GitHub-black?style=flat&logo=github&logoColor=white" alt="GitHub Badge"/>
     </a>
+    <a href="https://ieeexplore.ieee.org/author/37414599200">
+      <img src="https://img.shields.io/badge/IEEE-Technical-blue?style=flat&logo=ieee&logoColor=white" alt="IEEE Badge"/>
+    </a>
   </div>
   <h1>
     <p> Hi, I’m Dr. Usama Arshad
@@ -25,16 +28,15 @@
 ---
 ### :man_technologist: About Me :
 - 👋 Hi, I’m Dr. Usama Arshad
-- 👀 I’m deeply passionate about **Artificial Intelligence, Machine Learning, Blockchain, and Cybersecurity**.
-- 🌱 Currently working as an **Assistant Professor at FAST National University**.
-- 🏆 Served as the **President of the Graduate Students Society (GSS) at GIKI**, organizing research talks, networking events, and wellness activities.
-- 🎓 Organized and conducted the **DNN BootCamp at GIKI**, leading multiple lab sessions on ML, Deep Learning, and cutting-edge AI research.
-- 🔍 Conducting **AI-Blockchain integration research** for scalable, secure computing architectures.
+- 👀 Passionate about **Artificial Intelligence, Machine Learning, Blockchain, and Cybersecurity**.
+- 🌱 Assistant Professor at **FAST National University**, conducting research in AI and secure blockchain integration.
+- 🏆 **President of the Graduate Students Society (GSS) at GIKI**, organizing technical workshops, research forums, and student activities.
+- 🎓 Founder and Lead Instructor at **DNN BootCamp at GIKI**, training students in ML, Deep Learning, and AI-powered applications.
+- 🔍 **IEEE Member & Conference Organizer**, chairing multiple research symposiums and mentoring scholars.
 - 📚 **Peer reviewer for IEEE, Elsevier, and Springer Nature journals**.
-- 🔬 Published **high-impact research papers** in AI, Blockchain, and Cybersecurity. [Check out my research](https://scholar.google.com/citations?user=sFcSCYMAAAAJ&hl=en).
-- :computer: **Contributor to open-source AI & ML projects** and mentor to budding researchers.
-- 🎤 **Speaker at multiple tech conferences and AI summits**.
-- 🌍 Advocate for **Blockchain-based digital security and decentralization**.
+- 🔬 **Published researcher** in top-tier AI and cybersecurity journals. [Check my research](https://scholar.google.com/citations?user=sFcSCYMAAAAJ&hl=en).
+- 🎤 **Speaker at AI, Blockchain, and FinTech conferences worldwide**.
+- 🚀 Passionate about **open-source AI contributions** and mentoring aspiring researchers.
 ---
 
 ### :desktop_computer: Languages and Tools :
@@ -47,6 +49,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="TensorFlow" alt="TensorFlow" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="PyTorch" alt="PyTorch" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
 </div>
 
 ---
@@ -56,4 +60,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=usamajanjua9&theme=dark&layout=compact&langs_count=10)](https://github.com/usamajanjua9/github-readme-stats)
 
-🚀 **Let's connect and collaborate on groundbreaking projects!**
+🚀 **Let's collaborate on cutting-edge AI and blockchain projects!**
