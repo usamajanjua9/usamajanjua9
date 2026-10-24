@@ -110,7 +110,7 @@ My research explores intelligent, secure, and decentralized systems, including a
 
 <img src="https://streak-stats.demolab.com?user=usamajanjua9&amp;theme=tokyonight&amp;hide_border=true" alt="GitHub contribution streak" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=usamajanjua9&amp;theme=tokyo-night&amp;hide_border=true&amp;area=true" width="95%" alt="GitHub activity graph" />
+<img src="https://ghchart.rshah.org/58A6FF/usamajanjua9" width="95%" alt="GitHub Contribution Graph" />
 
 </div>
 
