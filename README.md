@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0F172A,50:2563EB,100:06B6D4&amp;height=220§ion=header&amp;text=Dr.%20Usama%20Arshad&amp;fontSize=45&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=AI%20Researcher%20%7C%20Blockchain%20%26%20Cybersecurity%20%7C%20Educator%20%7C%20Developer&amp;descAlignY=60&amp;descSize=17" width="100%" alt="Profile banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0F172A,50:2563EB,100:06B6D4&amp;height=220&amp;section=header&amp;text=Dr.%20Usama%20Arshad&amp;fontSize=45&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=AI%20Researcher%20%7C%20Blockchain%20and%20Cybersecurity%20%7C%20Educator%20%7C%20Developer&amp;descAlignY=60&amp;descSize=17" width="100%" alt="Profile banner" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1200&color=38BDF8&center=true&vCenter=true&width=800&lines=Building+Intelligent+and+Secure+Systems;AI+%7C+Deep+Learning+%7C+Blockchain;Digital+Forensics+%7C+Applied+Research;From+Research+Ideas+to+Real-World+Products)](https://git.io/typing-svg)
 
@@ -128,6 +128,6 @@ I'm interested in working with researchers, students, institutions, and industry
 
 **Research • Build • Teach • Collaborate**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0F172A,50:2563EB,100:06B6D4&amp;height=110§ion=footer" width="100%" alt="Footer wave" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0F172A,50:2563EB,100:06B6D4&amp;height=110&amp;section=footer" width="100%" alt="Footer wave" />
 
 </div>
