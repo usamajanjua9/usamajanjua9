@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:06B6D4&height=220&section=header&text=Dr.%20Usama%20Arshad&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Researcher%20%7C%20Blockchain%20%26%20Cybersecurity%20%7C%20Educator%20%7C%20Developer&descAlignY=60&descSize=17" width="100%" alt="Profile banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0F172A,50:2563EB,100:06B6D4&amp;height=220§ion=header&amp;text=Dr.%20Usama%20Arshad&amp;fontSize=45&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=AI%20Researcher%20%7C%20Blockchain%20%26%20Cybersecurity%20%7C%20Educator%20%7C%20Developer&amp;descAlignY=60&amp;descSize=17" width="100%" alt="Profile banner" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1200&color=38BDF8&center=true&vCenter=true&width=800&lines=Building+Intelligent+and+Secure+Systems;AI+%7C+Deep+Learning+%7C+Blockchain;Digital+Forensics+%7C+Applied+Research;From+Research+Ideas+to+Real-World+Products)](https://git.io/typing-svg)
 
@@ -105,12 +105,12 @@ My research explores intelligent, secure, and decentralized systems, including a
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=usamajanjua9&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub stats" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=usamajanjua9&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Most used public repository languages" height="170" />
+<img src="https://github-readme-stats.vercel.app/api?username=usamajanjua9&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;include_all_commits=true" alt="GitHub stats" height="170" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=usamajanjua9&amp;layout=compact&amp;langs_count=8&amp;theme=tokyonight&amp;hide_border=true" alt="Most used public repository languages" height="170" />
 
-<img src="https://streak-stats.demolab.com?user=usamajanjua9&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+<img src="https://streak-stats.demolab.com?user=usamajanjua9&amp;theme=tokyonight&amp;hide_border=true" alt="GitHub contribution streak" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=usamajanjua9&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="GitHub activity graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=usamajanjua9&amp;theme=tokyo-night&amp;hide_border=true&amp;area=true" width="95%" alt="GitHub activity graph" />
 
 </div>
 
@@ -128,6 +128,6 @@ I'm interested in working with researchers, students, institutions, and industry
 
 **Research • Build • Teach • Collaborate**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:06B6D4&height=110&section=footer" width="100%" alt="Footer wave" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0F172A,50:2563EB,100:06B6D4&amp;height=110§ion=footer" width="100%" alt="Footer wave" />
 
 </div>
